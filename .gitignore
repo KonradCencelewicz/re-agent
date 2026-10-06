@@ -1,2 +1,4 @@
 .idea
-projects
+
+projects/*
+!projects/.gitkeep
