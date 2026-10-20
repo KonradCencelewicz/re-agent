@@ -1,4 +1,5 @@
 .idea
+.hidden
 
 projects/*
 !projects/.gitkeep
