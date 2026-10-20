@@ -38,9 +38,10 @@ re-agent/
   implemented, how it is built, and which new features fit the current codebase.
 - **`BACKLOG.md`** – list of proposed features resulting from the research.
 - **`COMPETITION.md`** – list of competing apps found by the agent, with the features each one offers.
+- **`LITERATURE.md`**: research books, articles, and other sources which can support gaining knowledge about the domain of the app.
 - Additional files (research notes, etc.) can be added per project as needed.
 
 ## Adding a project
 
 Ask the agent to add a new project. It will create `projects/<project-name>/` with the base files
-(`PROJECT.md`, `BACKLOG.md`, `COMPETITION.md`, ...), which you can then fill in or let the agent populate during research.
+(`PROJECT.md`, `BACKLOG.md`, `COMPETITION.md`, `LITERATURE.md`, ...), which you can then fill in or let the agent populate during research.
